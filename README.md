@@ -1,4 +1,4 @@
-# 🧮 Product Sales Analysis Dashboard using Excel
+# 🧮 Global Product Sales Analysis Dashboard using Excel
 
 ## 📌 Overview
 This project demonstrates a comprehensive data analysis using Microsoft Excel, incorporating **Power Query**, **Power Pivot**, **DAX formulas**, **interactive dashboards**, and **trendline visualizations**. The dataset is based on global product-level sales, revenue, and profit data.
@@ -7,6 +7,7 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 
 ## ⚙️ Tools & Techniques Used
 
+- ✅
 - ✅ **Power Query**: Data cleaning and shaping
 - ✅ **Power Pivot**: Data modeling with relationships
 - ✅ **DAX**:
