@@ -21,6 +21,25 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 - ✅ **Combo Charts**: Multi-metric visualizations
 
 ---
+## 🖼️ Preview
+
+[Dashboard Preview](https://github.com/user-attachments/assets/c863a2bc-a2b5-44df-a4dd-28d805a94586)
+
+![Power Query](https://github.com/user-attachments/assets/be2397c5-310a-46bf-8039-c97aab57a64c)
+
+![Median Global Cost Profit](https://github.com/user-attachments/assets/360e58b1-bcf0-410f-aa9d-426db5d5fb9e)
+
+![Median Global Revenue](https://github.com/user-attachments/assets/e95dcae8-7fd9-4e43-9919-0dd34c35c773)
+
+![Margin on product](https://github.com/user-attachments/assets/3de7802e-507a-4ac4-b36f-3d8e29504cc9)
+
+![Trendline Analysis](https://github.com/user-attachments/assets/4951563b-2943-4f5c-abe5-3bf1b3feff5e)
+
+
+
+
+
+
 
 
 ## 📊 Dashboards Included
