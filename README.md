@@ -24,7 +24,7 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 ## 🖼️ Preview
 
 
-<video controls src="Dashboard.mp4" title="Title"></video>
+[Dashboard](https://github.com/user-attachments/assets/696ffa20-2349-498d-93b0-e2d6a0131630)
 
 ![Power Query](https://github.com/user-attachments/assets/be2397c5-310a-46bf-8039-c97aab57a64c)
 
@@ -35,7 +35,6 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 ![Margin on product](https://github.com/user-attachments/assets/3de7802e-507a-4ac4-b36f-3d8e29504cc9)
 
 ![Trendline Analysis](https://github.com/user-attachments/assets/4951563b-2943-4f5c-abe5-3bf1b3feff5e)
-
 
 
 
