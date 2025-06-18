@@ -24,7 +24,7 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 ## 🖼️ Preview
 
 
-[Dashboard](https://github.com/user-attachments/assets/78b7fdad-1620-4fb8-8987-4f88b6adef95)
+[Dashboard](https://github.com/user-attachments/assets/af561c5e-f25c-4a19-a302-448508b3ab49)
 
 ![Power Query](https://github.com/user-attachments/assets/be2397c5-310a-46bf-8039-c97aab57a64c)
 
