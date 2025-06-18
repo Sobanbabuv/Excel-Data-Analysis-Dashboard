@@ -7,7 +7,9 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 
 ## ⚙️ Tools & Techniques Used
 
-- ✅
+- ✅**Advanced Excel formulas**:
+  - `SUMIFS`, `MEDIAN`, `XLOOKUP`, `FILTER`, `INDEX & MATCH`
+- ✅ Dashboard layout formatting
 - ✅ **Power Query**: Data cleaning and shaping
 - ✅ **Power Pivot**: Data modeling with relationships
 - ✅ **DAX**:
@@ -19,6 +21,7 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 - ✅ **Combo Charts**: Multi-metric visualizations
 
 ---
+
 
 ## 📊 Dashboards Included
 
@@ -37,7 +40,7 @@ This project demonstrates a comprehensive data analysis using Microsoft Excel, i
 
 ### 3. Simplified Dashboard
 - Standalone clean dashboard built in `Dashboard.xlsx`.
-- Highlights KPIs and a clear visual breakdown of product performance.
+- Highlights and a clear visual breakdown of product performance.
 
 
 ---
